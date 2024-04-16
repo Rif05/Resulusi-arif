@@ -3,3 +3,5 @@
 -Menjadi Profesional Programmer
 -Workout 
 -Membaca buku
+  ^manga
+  ^umum
