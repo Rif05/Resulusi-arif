@@ -1,1 +1,2 @@
 # Resulusi-arif
+-Konsisten terus
