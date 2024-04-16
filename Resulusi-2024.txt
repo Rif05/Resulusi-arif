@@ -1,5 +1,6 @@
 -Konsisten Untuk terus belajar
 -Gapai cita-cita
 -Menjadi Profesional Programmer
--Workout 
 -Membaca buku
+  ^sains
+  ^fisika
